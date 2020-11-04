@@ -9,5 +9,4 @@ You may have a look at [my blog](https://blog.vyo.sh) and the [code powering it]
 Anywho, if you want to get in touch about anything relating to DX, UX and languages in general, give it a go!
 
 
-Cheers,
-manu
+#### Cheers, manu <3
