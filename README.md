@@ -1,16 +1,13 @@
-### Hi there 👋
+#### Hej hej!
 
-<!--
-**vyo/vyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Most of the repos you find here are either forks (as backup) or stubs (for past and future ideas);
+the projects that might have some meaningful original content are the pinned ones, so feel to free to check those out in earnest!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may have a look at [my blog](https://blog.vyo.sh) and the [code powering it](https://github.com/vyo/blog) but beware - updates are intermittent and content is mercurial 0=)
+
+Anywho, if you want to get in touch about anything relating to DX, UX and languages in general, give it a go!
+
+
+Cheers,
+manu
